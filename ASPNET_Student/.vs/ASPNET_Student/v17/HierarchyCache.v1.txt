@@ -1,0 +1,271 @@
+﻿++Solution 'ASPNET_Student' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ASPNET_Student.sln
+++Solution Items
+i:{00000000-0000-0000-0000-000000000000}:Solution Items
+++.editorconfig
+i:{a0ab3400-e2a4-42f2-86cf-13414d099f54}:E:\programing\Visual Studio\Workspace\ASPNET_Student\.editorconfig
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\.editorconfig
+++ASPNET_Student
+i:{00000000-0000-0000-0000-000000000000}:ASPNET_Student
+++Connected Services 
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:>382
+++Dependencies
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:>381
+++Properties
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\properties\
+++wwwroot
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\
+++css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\css\
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\
+++site.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\css\site.css
+++js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\js\
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\
+++site.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\js\site.js
+++lib
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\
+++bootstrap
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\
+++dist
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery\dist\
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery-validation\dist\
+++bootstrap.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++LICENSE
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\license
+++jquery
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery\
+++jquery-validation
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\favicon.ico
+++Controllers
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\controllers\
+++HomeController.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\controllers\homecontroller.cs
+++StudentsController.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\controllers\studentscontroller.cs
+++Data
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\data\
+++Services
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\data\services\
+++Impl
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\data\services\impl\
+++StudentsServiceImpl.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\data\services\impl\studentsserviceimpl.cs
+++IStudentsService.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\data\services\istudentsservice.cs
+++ApplicationDbContext.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\data\applicationdbcontext.cs
+++Migrations
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\migrations\
+++20220504095912_StudentToDB.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\migrations\20220504095912_studenttodb.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\migrations\applicationdbcontextmodelsnapshot.cs
+++Models
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\models\
+++ErrorViewModel.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\models\errorviewmodel.cs
+++Student.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\models\student.cs
+++Views
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\
+++Home
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\home\
+++Index.cshtml
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\home\index.cshtml
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\students\index.cshtml
+++Shared
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\shared\
+++_Layout.cshtml
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\shared\error.cshtml
+++Students
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\students\
+++Create.cshtml
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\students\create.cshtml
+++Delete.cshtml
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\students\delete.cshtml
+++Details.cshtml
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\students\details.cshtml
+++Edit.cshtml
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\students\edit.cshtml
+++_ViewImports.cshtml
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\_viewstart.cshtml
+++appsettings.json
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\appsettings.json
+++GlobalUsing.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\globalusing.cs
+++Program.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\program.cs
+++No service dependencies discovered
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:>383
+++Analyzers
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:analyzers
+++Frameworks
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:frameworks
+++Packages
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:packages
+++launchSettings.json
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\properties\launchsettings.json
+++bootstrap.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++LICENSE.txt
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery\license.txt
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++20220504095912_StudentToDB.Designer.cs
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\migrations\20220504095912_studenttodb.designer.cs
+++_Layout.cshtml.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\users\adrian\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.4)
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:>401
+++Microsoft.EntityFrameworkCore.Tools (6.0.4)
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:>402
+++Pomelo.EntityFrameworkCore.MySql (6.0.1)
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:>403
+++bootstrap.min.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++jquery.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.rtl.min.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++jquery.min.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++jquery.min.map
+i:{756e35d9-2324-47da-b95e-9e6e3938e940}:e:\programing\visual studio\workspace\aspnet_student\wwwroot\lib\jquery\dist\jquery.min.map

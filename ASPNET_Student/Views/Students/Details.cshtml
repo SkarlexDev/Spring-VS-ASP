@@ -1,0 +1,67 @@
+﻿@model Student
+
+@{
+    ViewData["Title"] = "View Student";
+}
+
+<div class="row">
+    <div class="col-sm-4 mx-auto bg-light">
+        <div clsss="col-md-8 offser-2">
+            <div class="form_title">
+                <h1 class="text-center">Details for @Model.FirstName @Model.LastName</h1>
+            </div>
+            <div class="row">
+                <div class="col-md-8 offset-2">
+                        
+                        <div class="mb-3">
+                            <label asp-for="FirstName"></label>
+                            <input asp-for="FirstName" class="form-control" readonly/>
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="LastName"></label>
+                            <input asp-for="LastName" class="form-control" readonly/>
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Email"></label>
+                            <input asp-for="Email" class="form-control" readonly/>
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Phone"></label>
+                            <input asp-for="Phone" class="form-control" readonly/>
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Address"></label>
+                            <input asp-for="Address" class="form-control" readonly/>
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="City"></label>
+                            <input asp-for="City" class="form-control" readonly/>
+                            <span asp-validation-for="City" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="StudyYear"></label>
+                            <input asp-for="StudyYear" class="form-control" readonly/>
+                            <span asp-validation-for="StudyYear" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Age"></label>
+                            <input asp-for="Age" class="form-control" readonly/>
+                            <span asp-validation-for="Age" class="text-danger"></span>
+                        </div>
+
+
+                        <div class="mb-3 form-bottom">
+                            <a class="btn btn-outline-success" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+                            <a class="btn btn-outline-secondary" asp-action="Index">Back</a>
+                        </div>
+             
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,18 @@
+Id,FirstName,LastName,Email,Phone,Address,City,StudyYear,Age
+1,Alex,Hold,alex_hold@mail.com,(770)-777-9839,"Kushimoto Sk 1950",Cankiri,2,25
+2,Philip,Addy,philip.addy@gmail.com,603-315-6637,"Cedar St 5970",Hudson,4,22
+3,"Maia ",Green,maia.green@gmail.com,(507)-554-0418,"Andersons Bay Road 7679",Gisborne,2,21
+4,"Bruno ",Leroux,bruno.leroux@gmail.com,"079 804 01 73","Place de L'Abbé-Basset 3986",Obfelden,3,24
+5,Brielle,Lo,brielle.lo@gmail.com,674-106-1498,"Victoria Ave 4675",Campbellton,1,20
+6,"Ava ",Macdonald,ava.macdonald@gmail.com,273-304-4461,"West Ave 7932",Sutton,4,23
+7,"Aria ",Morris,aria.morris@gmail.com,(113)-836-6811,"Princess Street 8641",Tauranga,1,21
+8,"Paolo ",Simons,paolo.simons@gmail.com,(057)-197-4451,"Bunzinghage 9445",Lemmer,4,23
+9,"Heloise ",Rei,heloise.rey@gmail.com,01-28-68-41-37,"Rue des Cuirassiers 62",Nantes,1,24
+10,"Dylan ",Cox,dylan.cox@gmail.com,(911)-100-9802,"W Gray St 5871",Ironville,3,25
+11,Philip,Green,philip.addy47@gmail.com,603-318-6637,"Andersons Bay Road 7679",Cankiri,3,26
+12,"Maia ",Addy,maria.addy@gmail.com,(780)-777-9839,"Cedar St 5970",Oina,2,20
+13,"Bruno ",Green,uem1@test.com,(779)-777-9835,"Kushimoto Sk 1950",Cankiri,2,27
+14,Philip,Dolge,ma2il@mail.com,"099 804 01 73","Andersons Bay Road 7679",Hudson,2,21
+15,"Dylan ",Simons,m8ail@mail.com,"079 804 01 74","Princess Street 8641",Hudson,1,24
+16,User,User,mail@mail.com,(770)-777-9839,useradd,usercity,4,20
+17,Josip,Nguyen,josip.nguyen@gmail.com,"076 530 57 63","Rue Courbet 8513",Lancy,2,20

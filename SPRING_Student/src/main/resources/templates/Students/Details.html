@@ -1,0 +1,68 @@
+<html xmlns:th="https://www.thymeleaf.org">
+<head th:replace="Shared/Layout :: header-css">
+</head>
+<body>
+	<header th:insert="Shared/Layout :: header"></header>
+	<div b-uwaevnlf68="" class="container-fluid">
+
+		<div class="row" th:object="${StudentDetails}">
+			<div class="col-sm-4 mx-auto bg-light">
+				<div clsss="col-md-8 offser-2">
+					<div class="form_title">
+						<h1 class="text-center">
+							Details for <span th:text="*{firstName}"></span> <span th:text="*{lastName}"></span>
+						</h1>
+					</div>
+					<div class="row">
+						<div class="col-md-8 offset-2">
+							<form>
+								<div class="mb-3">
+									<label for="FirstName">FirstName</label> 
+									<input class="form-control" type="text" readonly th:field="*{firstName}">
+								</div>
+								<div class="mb-3">
+									<label for="lastName">LastName</label> 
+									<input class="form-control" type="text" readonly th:field="*{lastName}">
+								</div>
+								<div class="mb-3">
+									<label for="email">Email</label> 
+									<input class="form-control" type="text" readonly th:field="*{email}">
+								</div>
+								<div class="mb-3">
+									<label for="phone">Phone</label> 
+									<input class="form-control" type="text" readonly th:field="*{phone}">
+								</div>
+								<div class="mb-3">
+									<label for="address">Address</label> 
+									<input class="form-control" type="text" readonly th:field="*{address}">
+								</div>
+								<div class="mb-3">
+									<label for="city">City</label> 
+									<input class="form-control" type="text" readonly th:field="*{city}">
+								</div>
+								<div class="mb-3">
+									<label for="studyYear">StudyYear</label> 
+									<input class="form-control" type="number" readonly th:field="*{studyYear}">
+								</div>
+								<div class="mb-3">
+									<label for="age">Age</label> 
+									<input class="form-control" type="number" readonly th:field="*{age}">
+								</div>
+								
+
+								<div class="mb-3 form-bottom">
+									<a class="btn btn-outline-success" th:href="@{/Students/Edit/{id}(id=${StudentDetails.id})}">Edit</a>
+									<a class="btn btn-outline-secondary" href="/Students">Back</a>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+	<footer th:insert="Shared/Layout :: footer"></footer>
+</body>
+</html>
